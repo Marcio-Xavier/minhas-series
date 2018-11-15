@@ -1,0 +1,37 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "toWatch",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends 1° Temporada",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Bom para descontrair"
+    },
+    {
+      "name": "The Walking Dead",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "Muito boa",
+      "id": 5
+    },
+    {
+      "name": "Os Simpsons",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "Muito Divertida",
+      "id": 6
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
